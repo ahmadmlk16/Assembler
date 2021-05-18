@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assembler" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assembler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="m1test01.asm results1.txt -symbols" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assembler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Assembler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Assembler.h" />
+		<Unit filename="DataParser.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="DataParser.h" />
+		<Unit filename="DtaParser.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="DtaParser.h" />
+		<Unit filename="FileIO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FileIO.h" />
+		<Unit filename="Helpers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printer.h" />
+		<Unit filename="TextParser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TxtParser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TxtParser.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

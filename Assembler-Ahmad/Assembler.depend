@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1588391924 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Assembler.h"
+
+1588384735 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\assembler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588393714 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\assembler.c
+	"Assembler.h"
+	"FileIO.h"
+	"TxtParser.h"
+	"Printer.h"
+	"DtaParser.c"
+
+1588376211 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588392091 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588380508 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\fileio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588388040 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\dataparser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588387934 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\dataparser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588387906 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\assembler.c
+	"Assembler.h"
+	"FileIO.h"
+	"DataParser.c"
+	"TxtParser.h"
+	"Printer.h"
+
+1588378663 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\txtparser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588391195 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\txtparser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588379072 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\printer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588393312 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\printer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588390624 source:c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\helpers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588379717 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\helpers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
+1588388327 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\dtaparser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1588390624 c:\users\ahmad\desktop\vt\semester 2\cs 2506 intro to computer orgainzation ii\assembler\dtaparser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"Assembler.h"
+
